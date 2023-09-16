@@ -3,8 +3,9 @@ author: rgregg
 ms.author: rgregg
 ms.date: 09/10/2017
 ms.topic: conceptual
-title: Sharing items - OneDrive API
+title: Sharing Items in OneDrive and SharePoint Guide
 localization_priority: Normal
+description: Learn how to share items in OneDrive and SharePoint using sharing links and item permissions. Includes steps to create, read, update, and remove permissions.
 ---
 # Sharing items in OneDrive and SharePoint
 

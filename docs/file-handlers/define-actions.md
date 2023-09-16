@@ -3,8 +3,9 @@ author: rgregg
 ms.author: rgregg
 ms.date: 09/10/2017
 ms.topic: conceptual
-title: Add custom actions to files - OneDrive
+title: Guide on Specifying Actions for File Handlers 2.0
 localization_priority: Normal
+description: Learn how to specify actions for file handlers 2.0. Understand built-in actions, custom actions, and how to define them in the file handler manifest.
 ---
 # Specifying actions for file handlers 2.0
 

@@ -3,8 +3,9 @@ author: rgregg
 ms.author: rgregg
 ms.date: 09/10/2017
 ms.topic: conceptual
-title: Create an app with SharePoint Server 2016 - OneDrive API
+title: Register App for OneDrive API with SharePoint Server 2016
 localization_priority: Normal
+description: Learn how to register your app for OneDrive API with SharePoint Server 2016. Includes steps for Office 365 and Azure subscriptions, Azure Active Directory setup, and app registration.
 ---
 # Registering your app to use OneDrive API with SharePoint Server 2016
 
