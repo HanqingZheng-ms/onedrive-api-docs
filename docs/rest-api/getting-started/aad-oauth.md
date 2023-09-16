@@ -3,8 +3,9 @@ author: rgregg
 ms.author: rgregg
 ms.date: 09/10/2017
 ms.topic: conceptual
-title: Using Azure Active Directory to sign-in - OneDrive API
+title: OneDrive for Business Authentication and Sign In Guide
 localization_priority: Priority
+description: Learn how to authorize applications using Microsoft accounts for OneDrive personal and use Azure Active Directory for authentication. Discover the process of registering your app and signing into OneDrive for Business.
 ---
 # OneDrive for Business authentication and sign in
 

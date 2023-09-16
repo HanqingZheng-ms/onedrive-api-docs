@@ -3,8 +3,9 @@ author: rgregg
 ms.author: rgregg
 ms.date: 09/10/2017
 ms.topic: conceptual
-title: Understand differences between OneDrive API and Microsoft Graph
+title: Understanding OneDrive API Endpoint Differences
 localization_priority: Priority
+description: Explore the differences between Microsoft Graph and OneDrive API endpoints. Learn about namespaces, methods, permissions, and how to discover the correct OneDrive API endpoint.
 ---
 # OneDrive API Endpoint Differences
 

@@ -3,8 +3,9 @@ author: rgregg
 ms.author: rgregg
 ms.date: 09/10/2017
 ms.topic: conceptual
-title: Sign-in and authorization - OneDrive API
+title: OneDrive App Authorization and Authentication Guide
 localization_priority: Priority
+description: Learn how to authorize your app to access OneDrive using different authentication methods. Understand OAuth2, Open ID Connect, and Azure Active Directory flows.
 ---
 # Authorizing your app to access OneDrive
 

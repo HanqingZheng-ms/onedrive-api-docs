@@ -3,8 +3,9 @@ author: rgregg
 ms.author: rgregg
 ms.date: 09/10/2017
 ms.topic: conceptual
-title: Calling long running actions - OneDrive API
+title: Optimizing API Response Time for Long Running Actions
 localization_priority: Normal
+description: Learn how to handle long running actions in APIs to keep response latency low. Understand the process through an example of a data copy scenario.
 ---
 # Working with APIs that make take a long time to complete
 
