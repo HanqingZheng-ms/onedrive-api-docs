@@ -4,6 +4,7 @@ ms.author: rgregg
 ms.date: 09/10/2017
 title: SharePointIds - OneDrive API
 localization_priority: Normal
+description: Learn about SharePointIds resource type on Microsoft's official site. Understand identifiers for items stored in SharePoint or OneDrive for Business.
 ---
 # SharePointIds resource type
 
